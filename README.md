@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gaussian elimination]()
+![output](lur.png)
 
 
 ## Result:
